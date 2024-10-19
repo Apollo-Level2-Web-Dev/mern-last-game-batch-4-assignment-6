@@ -173,3 +173,9 @@ Develop a full-stack e-commerce application using **Next.js** that allows both *
 -  **GitHub Repository:** Provide a link to the GitHub repository containing the source code.
 -  **Live Deployment:** Provide a link to the live application.
 -  **Demo Video:** Create a project demo video (max 5 minutes) showcasing all features and functionalities of the application.
+  
+
+### ⏰ **Submission Deadline:**
+
+- 30 Marks: November 03, 2024, 11.59 PM ⏳
+
